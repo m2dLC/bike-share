@@ -29,7 +29,6 @@ This is a case study to finish the *Capstone Course* of the **Google Data Analyt
 4.	Current – The data that was used in the case study is from the previous 10 months. The Data Analyst only used this year’s data to measure the year-to-date KPIs of the company.
 5.	Cited – Data collected has been made available as public data which was provided by Cyclistic and the City Government of Chicago, Illinois.
 
-•	The fictional company includes a License Agreement to raise the Data Integrity of the dataset.
 
 ## Process
 
