@@ -33,9 +33,10 @@ This is a case study to finish the *Capstone Course* of the **Google Data Analyt
 ## Process
 
 ### Data Cleaning and Manipulation
-•	Removing Duplicates
+Data Cleaning of the data is carried out using Microsoft Excel. The following data cleaning actions were performed
+•	Removing Duplicates – in ensuring data integrity, the duplicated values were examined and removed using the “Remove Duplicate” tool in Excel. 
 
-•	Data Validation
+•	Data Validation - 	
 
 •	Removing Empty Values
 
@@ -44,9 +45,11 @@ This is a case study to finish the *Capstone Course* of the **Google Data Analyt
 •	Adding Additional and Necessary Data Series
 
 ### Data Transformation
-•	Importing Data to SQL & Data Merging
+•	Importing Data to SQL – the monthly files containing the ride data were imported to BigQuery.
 
-•	Data Manipulation
+•	Merging Data – a new table was created via BigQuery named “annual_trip_2023”. January 2023 to October 2023 monthly trip data were merged to “annual_trip_2023” by using the UNION ALL statement. 
+
+
 ## Analyze
 ## Share
 ## Act
