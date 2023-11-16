@@ -29,7 +29,6 @@ SELECT
 FROM
   trip_202302
 UNION ALL
--- Repeat for the remaining tables (trip_202303 to trip_202310)
 SELECT
   ride_id,
   rideable_type,
