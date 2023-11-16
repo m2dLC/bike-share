@@ -1,3 +1,6 @@
+-- Using BigQuery to create a new table "annual_trip_2023" which would act as the merged table of data from January 2023 to October 2023.
+
+
 SELECT
   ride_id,
   rideable_type,
