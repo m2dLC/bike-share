@@ -39,7 +39,7 @@ Data Cleaning of the data is carried out using Microsoft Excel and using SQL. Th
 
 •	Data Validation - to ensure data consistency validation was done by limiting the rideable_type, and member_casual to specific and valid values. Column rideable_type is limited to *classic_bike, docked_bike, and electric_bike*, and *casual, and member* for casual_member.
 
-•	Removing Empty Values and Unwanted Data- to ensure completeness in data, all files were checked for incomplete or blank values to all columns. The rows with missing values are deleted. Values with less than 30 seconds in *ride_length* was removed using SQL as it is deemed illogical to use them as a valid data and will be considered as an unwanted data. 
+•	Removing Empty Values and Unwanted Data- to ensure completeness in data, all files were checked for incomplete or blank values to all columns. The rows with missing values are deleted. Values with less than 30 seconds in *ride_length* was removed as it is deemed illogical to use them as a valid data and will be considered as a cancelled transaction and an unwanted data. 
 
 •	Removing Unnecessary Data Series - in need of focusing more on efficiency, columns with essential values are only to be maintained to the dataset. Irrelevant columns such as start_lat, start_lng, end_lat, and end_lng were removed. 
 
@@ -49,9 +49,9 @@ Data Cleaning of the data is carried out using Microsoft Excel and using SQL. Th
 
 
 ### Data Transformation
-•	Importing Data to SQL – the monthly files containing the ride data were imported to BigQuery.
+•	Importing Data to SQL – the monthly files containing the ride data were imported to PostgreSQL.
 
-•	Merging Data – a new table was created via BigQuery named “annual_trip_2023”. January 2023 to October 2023 monthly trip data were merged to “annual_trip_2023” by using the UNION ALL statement. 
+•	Merging Data – a new table was created via PostgreSQL named “annual_trip_2023”. January 2023 to October 2023 monthly trip data were merged to “annual_trip_2023” by using the UNION ALL statement. 
 
 
 ## Analyze
