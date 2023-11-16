@@ -1,3 +1,5 @@
+-- Data merging of monthly data bike trips from January 2023 to November 2023 via *Create Table* in PostgreSQL 
+
 CREATE TABLE annual_trip_2023 AS
 SELECT
   ride_id,
