@@ -17,14 +17,18 @@ This is a case study to finish the *Capstone Course* of the **Google Data Analyt
 ##Prepare
 
 •	The public data of “Cyclistic Bike Share” was made available by Motivate International Inc. under the license from this link: https://divvybikes.com/data-license-agreement .
+
 •	The data from the month of January 2023 to October 2023 will be used for analysis.
+
 •	The data is stored in CSV file and each file contains data from one month. Thus we have a total of 6 csv files.
+
 •	ROCCC:
 1.	Reliable – Data has been made available to the public for some time as it contains accurate, complete, and unbiased data.
 2.	Original – Highly Original as the data was created by Motivate International Inc. A company based in New York that services bike-sharing systems and other urban services in North America.
 3.	Comprehensive – The data includes all the unnecessary to data to understand how the members and casual riders use Cyclistic bikes.
 4.	Current – The data that was used in the case study is from the previous 10 months. The Data Analyst only used this year’s data to measure the year-to-date KPIs of the company.
 5.	Cited – Data collected has been made available as public data which was provided by Cyclistic and the City Government of Chicago, Illinois.
+
 •	The fictional company includes a License Agreement to raise the Data Integrity of the dataset.
 
 ##Process
