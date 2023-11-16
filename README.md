@@ -31,7 +31,7 @@ This is a case study to finish the *Capstone Course* of the **Google Data Analyt
 
 •	The fictional company includes a License Agreement to raise the Data Integrity of the dataset.
 
-##Process
-##Analyze
-##Share
-##Act
+## Process
+## Analyze
+## Share
+## Act
