@@ -33,15 +33,20 @@ This is a case study to finish the *Capstone Course* of the **Google Data Analyt
 
 ## Process
 
-# Data Cleaning and Manipulation
+### Data Cleaning and Manipulation
 •	Removing Duplicates
+
 •	Data Validation
+
 •	Removing Empty Values
+
 •	Removing Unnecessary Data Series
+
 •	Adding Additional and Necessary Data Series
 
-# Data Transformation
+### Data Transformation
 •	Importing Data to SQL & Data Merging
+
 •	Data Manipulation
 ## Analyze
 ## Share
