@@ -1,4 +1,4 @@
--- Create or replace the table in PostgreSQL
+-- Create the table in PostgreSQL to manipulate data to separate minutes, hours, days, and months into new table "analyze_annual_trip"
 
 CREATE TABLE IF NOT EXISTS analyze_annual_trip AS
 SELECT
