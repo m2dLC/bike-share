@@ -1,0 +1,15 @@
+weekdays,membership,ride_duration
+Sunday   ,casual,27
+Sunday   ,member,14
+Monday   ,casual,23
+Monday   ,member,12
+Tuesday  ,casual,21
+Tuesday  ,member,12
+Wednesday,casual,20
+Wednesday,member,12
+Thursday ,casual,21
+Thursday ,member,12
+Friday   ,casual,23
+Friday   ,member,12
+Saturday ,casual,27
+Saturday ,member,14
