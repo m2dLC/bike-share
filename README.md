@@ -53,7 +53,7 @@ Data Cleaning of the data is carried out using Microsoft Excel and using SQL. Th
 
 •	Merging Data – a new table was created via PostgreSQL named *“annual_trip_2023”*. January 2023 to October 2023 monthly trip data were merged to “annual_trip_2023” by using the UNION ALL statement. Query: [Data Merge](https://github.com/m2dLC/bike-share/blob/main/DATA%20MERGE.sql).
 
-•	Manipulating Data – a new table was created via PostgreSQL named *"analyze_annual_trip"*. The newly generated table includes additional columns such as *months, weekdays, hours, and duration_minutes*. [Data Manipulation](https://github.com/m2dLC/bike-share/blob/main/DATA%20MANIPULATION.sql).
+•	Manipulating Data – a new table was created via PostgreSQL named *"analyze_annual_trip"*. The newly generated table includes additional columns such as *months, weekdays, hours, and duration_minutes*. Query: [Data Manipulation](https://github.com/m2dLC/bike-share/blob/main/DATA%20MANIPULATION.sql).
 
 ## Analyze
 ## Share
