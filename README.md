@@ -17,7 +17,7 @@ This is a case study to finish the *Capstone Course* of the **Google Data Analyt
 
 ## Prepare
 
-•	The public data of “Cyclistic Bike Share” was made available by Motivate International Inc. under the license from this link: https://divvybikes.com/data-license-agreement .
+•	The public data of “Cyclistic Bike Share” was made available by Motivate International Inc. under the license from this [link](https://divvybikes.com/data-license-agreement).
 
 •	The data from the month of January 2023 to October 2023 will be used for analysis.
 
