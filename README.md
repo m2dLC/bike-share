@@ -8,13 +8,13 @@ This is a case study to finish the *Capstone Course* of the **Google Data Analyt
 
 •	Assigned to answer the question, **How do Annual members and Casual riders use Cyclistic bikes differently**. To understand the question, the list below will guide us.
 
-1. Rides per user type
-2. Rides per bike type
-3. Rides per month 
-4. Rides per each day
-5. Average Ride duration per day (in minutes)
-6. Average Ride Length in a month
-7. 
+1. Rides by user type
+2. Rides by bike type
+3. Rides by month 
+4. Rides by day
+5. Rides by hour
+6. Average Ride duration per day (in minutes)
+7. Average Ride Length in a month
 
 •	Key stakeholders are as follows:
 1.	Lily Moreno
@@ -64,5 +64,7 @@ Data Cleaning of the data is carried out using Microsoft Excel and using SQL. Th
 •	Manipulating Data – a new table was created via PostgreSQL named *"analyze_annual_trip"*. The newly generated table includes additional columns such as *months, weekdays, hours, and duration_minutes*. Query: [Data Manipulation](https://github.com/m2dLC/bike-share/blob/main/DATA%20MANIPULATION.sql).
 
 ## Analyze
+
+
 ## Share
 ## Act
