@@ -6,7 +6,15 @@ This is a case study to finish the *Capstone Course* of the **Google Data Analyt
 
 ## Ask
 
-•	Assigned to answer the question, **How do Annual members and Casual riders use Cyclistic bikes differently**.
+•	Assigned to answer the question, **How do Annual members and Casual riders use Cyclistic bikes differently**. To understand the question, the list below will guide us.
+
+1. Rides per user type
+2. Rides per bike type
+3. Rides per month 
+4. Rides per each day
+5. Average Ride duration per day (in minutes)
+6. Average Ride Length in a month
+7. 
 
 •	Key stakeholders are as follows:
 1.	Lily Moreno
