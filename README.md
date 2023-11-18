@@ -6,9 +6,9 @@ This is a case study to finish the *Capstone Course* of the **Google Data Analyt
 
 ### Tools Used
 
-Data Cleaning: Microsoft Excel
-Data Analysis: PostgreSQL
-Data Visualization: Microsoft Power BI
+•	Data Cleaning: Microsoft Excel
+•	Data Analysis: PostgreSQL
+•	Data Visualization: Microsoft Power BI
 
 ## Ask
 
