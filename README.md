@@ -87,12 +87,13 @@ To gain valuable insights and findings from data, I utilize PostgreSQL for data 
 
    ![Total Rides by Hours](https://github.com/m2dLC/bike-share/assets/107737135/cc7f5ad7-c003-498f-928a-7fa839a0856d)
 
-6. Average Ride Duration by Month - 
+6. Average Ride Duration by Month - The column chart depicts monthly average ride durations (in minutes), highlighting July as the peak month with an impressive 39-minute average. Notably, May, July, and August emerge as the standout months for casual riders, boasting the lengthiest average ride durations at 25 minutes each, while July claims the overall record with a 14-minute average. In contrast, January marks the nadir of ride durations in 2023, logging the shortest duration at 25 minutes, and also records the lowest average ride duration for casual riders at 15 minutes. Additionally, January and March share the distinction of having the lowest average ride durations for member riders, both clocking in at 10 minutes. 
 
    ![Average Ride Duration per Month (in min )](https://github.com/m2dLC/bike-share/assets/107737135/8fea37b7-eb3c-434a-9596-9892ebf47057)
 
-7. Average Ride Duration by Days
+7. Average Ride Duration by Days - Illustrated by the column chart, monthly average ride durations (in minutes) reveal distinct patterns. Notably, during the week, Saturday and Sunday emerge with the lengthiest ride durations among all seven days. These days also boast the longest ride durations for casual customers, averaging 27 minutes, and for member customers, averaging 14 minutes. In contrast, Wednesday stands out with the shortest overall ride duration, totaling 32 minutes. Remarkably, Wednesday also holds the title for the day with the briefest ride duration for casual customers. 
 
    ![Average Ride Duration per Day (in min )](https://github.com/m2dLC/bike-share/assets/107737135/571382d3-ce6f-4cdb-8d34-827a06a6b0ca)
 
 ## Act
+
