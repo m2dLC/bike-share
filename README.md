@@ -26,6 +26,7 @@ Data Visualization: Microsoft Power BI
 1.	Lily Moreno
 2.	Cyclistic Executives
 3.	Marketing Analytics Team (Secondary)
+   
 •	Cyclistic executive team must approve our recommendations. With that, the insights and visualizations that I will create should be driven by data.
 
 
@@ -98,7 +99,7 @@ To gain valuable insights and findings from data, I utilize PostgreSQL for data 
 
    ![Average Ride Duration per Month (in min )](https://github.com/m2dLC/bike-share/assets/107737135/8fea37b7-eb3c-434a-9596-9892ebf47057)
 
-7. **Average Ride Duration by Days** - Illustrated by the column chart, monthly average ride durations (in minutes) reveal distinct patterns. Notably, during the week, Saturday and Sunday emerge with the lengthiest ride durations among all seven days. These days also boast the longest ride durations for casual customers, averaging 27 minutes, and for member customers, averaging 14 minutes. In contrast, Wednesday stands out with the shortest overall ride duration, totaling 32 minutes. Remarkably, Wednesday also holds the title for the day with the briefest ride duration for casual customers. [SQL QUERY}(https://github.com/m2dLC/bike-share/blob/main/Analysis%20Results/Average%20Ride%20duration%20per%20day.sql)
+7. **Average Ride Duration by Days** - Illustrated by the column chart, monthly average ride durations (in minutes) reveal distinct patterns. Notably, during the week, Saturday and Sunday emerge with the lengthiest ride durations among all seven days. These days also boast the longest ride durations for casual customers, averaging 27 minutes, and for member customers, averaging 14 minutes. In contrast, Wednesday stands out with the shortest overall ride duration, totaling 32 minutes. Remarkably, Wednesday also holds the title for the day with the briefest ride duration for casual customers. [SQL QUERY](https://github.com/m2dLC/bike-share/blob/main/Analysis%20Results/Average%20Ride%20duration%20per%20day.sql)
 
    ![Average Ride Duration per Day (in min )](https://github.com/m2dLC/bike-share/assets/107737135/571382d3-ce6f-4cdb-8d34-827a06a6b0ca)
 
