@@ -63,8 +63,34 @@ Data Cleaning of the data is carried out using Microsoft Excel and using SQL. Th
 
 •	Manipulating Data – a new table was created via PostgreSQL named *"analyze_annual_trip"*. The newly generated table includes additional columns such as *months, weekdays, hours, and duration_minutes*. Query: [Data Manipulation](https://github.com/m2dLC/bike-share/blob/main/DATA%20MANIPULATION.sql).
 
-## Analyze
+## Analyze & Share
 
+1. Number of Rides by Type of Membership - 
 
-## Share
+   ![Types of Membership](https://github.com/m2dLC/bike-share/assets/107737135/c57d27a8-161f-4a50-bed7-35f8e7b88c28)
+
+2. Number of Rides by Type of Bike -
+
+![Number of Rides by Bike Type](https://github.com/m2dLC/bike-share/assets/107737135/3d0dc772-2079-4307-b724-cf61b09ab2f7)
+
+3. Number of Rides by Month
+
+![Total Rides by Month](https://github.com/m2dLC/bike-share/assets/107737135/d3f9d03b-a903-401a-a8c7-9c4483951067)
+
+4. Number of Rides by Day
+
+![Total Rides by Day](https://github.com/m2dLC/bike-share/assets/107737135/4001df85-eb75-4d22-92d2-ada7089b8779)
+
+5. Number of Rides by Hours
+
+![Total Rides by Hours](https://github.com/m2dLC/bike-share/assets/107737135/cc7f5ad7-c003-498f-928a-7fa839a0856d)
+
+6. Average Ride Duration by Month
+
+![Average Ride Duration per Month (in min )](https://github.com/m2dLC/bike-share/assets/107737135/8fea37b7-eb3c-434a-9596-9892ebf47057)
+
+7. Average Ride Duration by Days
+
+![Average Ride Duration per Day (in min )](https://github.com/m2dLC/bike-share/assets/107737135/571382d3-ce6f-4cdb-8d34-827a06a6b0ca)
+
 ## Act
