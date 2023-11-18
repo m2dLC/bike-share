@@ -75,19 +75,19 @@ To gain valuable insights and findings from data, I utilize PostgreSQL for data 
 
    ![Number of Rides by Bike Type](https://github.com/m2dLC/bike-share/assets/107737135/3d0dc772-2079-4307-b724-cf61b09ab2f7)
 
-3. Number of Rides by Month
+3. Number of Rides by Month - The total number of rides per month showed an upward trend from January to August, reaching a peak of 578,484 rides (346,778 rides for members and 231,706 rides for casual users). However, after August, the demand for bike-sharing experienced a decline. The highest number of rides for member users occurred in August, while July saw the highest number of rides for casual users, reaching 242,793 rides. 
 
    ![Total Rides by Month](https://github.com/m2dLC/bike-share/assets/107737135/d3f9d03b-a903-401a-a8c7-9c4483951067)
 
-4. Number of Rides by Day
+4. Number of Rides by Day - Based on the data provided, Saturday stands out as the busiest day, recording over 592,000 rides. Tuesdays see high activity from members, with over 395,000 rides, while casual users are most active on Saturdays, with over 286,000 rides.
 
    ![Total Rides by Day](https://github.com/m2dLC/bike-share/assets/107737135/4001df85-eb75-4d22-92d2-ada7089b8779)
 
-5. Number of Rides by Hours
+5. Number of Rides by Hours - It shows an upward trend from 04:00 to 17:00, followed by a downward trend from 17:00 to 04:00. Notably, the busiest hours for both casual users and members are at 17:00 (05:00 pm), with over 140,000 rides for casual users and 266,000 rides for members. This data highlights the peak hours of activity and can help in understanding user preferences and optimizing service provision during those times.
 
    ![Total Rides by Hours](https://github.com/m2dLC/bike-share/assets/107737135/cc7f5ad7-c003-498f-928a-7fa839a0856d)
 
-6. Average Ride Duration by Month
+6. Average Ride Duration by Month - 
 
    ![Average Ride Duration per Month (in min )](https://github.com/m2dLC/bike-share/assets/107737135/8fea37b7-eb3c-434a-9596-9892ebf47057)
 
