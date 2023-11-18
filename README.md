@@ -65,11 +65,13 @@ Data Cleaning of the data is carried out using Microsoft Excel and using SQL. Th
 
 ## Analyze & Share
 
-1. Number of Rides by Type of Membership - 
+To gain valuable insights and findings from data, I utilize PostgreSQL for data analysis and Power BI for data visualization. PostgreSQL serves as the platform for creating analyzed data, providing robust data storage and analysis capabilities. Power BI, on the other hand, is employed to transform the analyzed data into visual representations such as charts, graphs, and dashboards, making it easier to interpret and understand the insights derived from the analysis. 
+
+1. Number of Rides by Type of Membership - As of last October 2023, the year to date rides of Cyclistic is 3,838,346. 36.68% of the rides come from the casual users of the service while 63.32% of the rides are from the members.
 
    ![Types of Membership](https://github.com/m2dLC/bike-share/assets/107737135/c57d27a8-161f-4a50-bed7-35f8e7b88c28)
 
-2. Number of Rides by Type of Bike -
+2. Number of Rides by Type of Bike - In analyzing the usage patterns of rideable bikes, it is evident that the classic bikes have emerged as the most popular choice among both casual users and members. Additionally, there is a significant demand for electric bikes from both casual users and members. However, it is worth noting that the demand for docked bikes is primarily driven by casual bikers exclusively.
 
    ![Number of Rides by Bike Type](https://github.com/m2dLC/bike-share/assets/107737135/3d0dc772-2079-4307-b724-cf61b09ab2f7)
 
