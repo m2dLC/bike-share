@@ -79,23 +79,23 @@ To gain valuable insights and findings from data, I utilize PostgreSQL for data 
 
 1. **Number of Rides by Type of Membership** - As of last October 2023, the year to date rides of Cyclistic is 3,838,346. 36.68% of the rides come from the casual users of the service while 63.32% of the rides are from the members. [SQL Query](https://github.com/m2dLC/bike-share/blob/main/Analysis%20Results/Rides%20by%20type%20of%20user.sql)
 
-   ![Types of Membership](https://github.com/m2dLC/bike-share/assets/107737135/c57d27a8-161f-4a50-bed7-35f8e7b88c28)
+   ![Types of Membership](https://github.com/m2dLC/bike-share/assets/107737135/91eb69a4-2964-4a52-ad20-7517d4023051)
 
 2. **Number of Rides by Type of Bike** - In analyzing the usage patterns of rideable bikes, it is evident that the classic bikes have emerged as the most popular choice among both casual users and members. Additionally, there is a significant demand for electric bikes from both casual users and members. However, it is worth noting that the demand for docked bikes is primarily driven by casual bikers exclusively. [SQL Query](https://github.com/m2dLC/bike-share/blob/main/Analysis%20Results/Rides%20by%20type%20of%20bikes.sql)
 
-   ![Number of Rides by Bike Type](https://github.com/m2dLC/bike-share/assets/107737135/3d0dc772-2079-4307-b724-cf61b09ab2f7)
+   ![Number of Rides by Bike Type](https://github.com/m2dLC/bike-share/assets/107737135/4a61b8c0-943b-4c57-ae7b-9085d0a95da8)
 
 3. **Number of Rides by Month** - The total number of rides per month showed an upward trend from January to August, reaching a peak of 578,484 rides (346,778 rides for members and 231,706 rides for casual users). However, after August, the demand for bike-sharing experienced a decline. The highest number of rides for member users occurred in August, while July saw the highest number of rides for casual users, reaching 242,793 rides. [SQL Query](https://github.com/m2dLC/bike-share/blob/main/Analysis%20Results/Rides%20by%20month.sql)
 
-   ![Total Rides by Month](https://github.com/m2dLC/bike-share/assets/107737135/d3f9d03b-a903-401a-a8c7-9c4483951067)
+   ![Total Rides by Month](https://github.com/m2dLC/bike-share/assets/107737135/a0140187-7b17-4e73-981a-bc957cc22f11)
 
 4. **Number of Rides by Day** - Based on the data provided, Saturday stands out as the busiest day, recording over 592,000 rides. Tuesdays see high activity from members, with over 395,000 rides, while casual users are most active on Saturdays, with over 286,000 rides. [SQL Query](https://github.com/m2dLC/bike-share/blob/main/Analysis%20Results/Ride%20by%20day.sql)
 
-   ![Total Rides by Day](https://github.com/m2dLC/bike-share/assets/107737135/4001df85-eb75-4d22-92d2-ada7089b8779)
+   ![Total Rides by Day](https://github.com/m2dLC/bike-share/assets/107737135/55d0ea54-4d48-4e6c-8da2-df696c1c9e2b)
 
 5. **Number of Rides by Hours** - It shows an upward trend from 04:00 to 17:00, followed by a downward trend from 17:00 to 04:00. Notably, the busiest hours for both casual users and members are at 17:00 (05:00 pm), with over 140,000 rides for casual users and 266,000 rides for members. This data highlights the peak hours of activity and can help in understanding user preferences and optimizing service provision during those times. [SQL Query](https://github.com/m2dLC/bike-share/blob/main/Analysis%20Results/Rides%20by%20hours.sql)
 
-   ![Total Rides by Hours](https://github.com/m2dLC/bike-share/assets/107737135/cc7f5ad7-c003-498f-928a-7fa839a0856d)
+   ![Total Rides by Hours](https://github.com/m2dLC/bike-share/assets/107737135/106a951a-fe14-47b1-9450-6d36e53c645a)
 
 6. **Average Ride Duration by Month** - The column chart depicts monthly average ride durations (in minutes), highlighting July as the peak month with an impressive 39-minute average. Notably, May, July, and August emerge as the standout months for casual riders, boasting the lengthiest average ride durations at 25 minutes each, while July claims the overall record with a 14-minute average. In contrast, January marks the nadir of ride durations in 2023, logging the shortest duration at 25 minutes, and also records the lowest average ride duration for casual riders at 15 minutes. Additionally, January and March share the distinction of having the lowest average ride durations for member riders, both clocking in at 10 minutes. [SQL Query](https://github.com/m2dLC/bike-share/blob/main/Analysis%20Results/Average%20Ride%20duration%20per%20month.sql)
 
@@ -103,7 +103,7 @@ To gain valuable insights and findings from data, I utilize PostgreSQL for data 
 
 7. **Average Ride Duration by Days** - Illustrated by the column chart, monthly average ride durations (in minutes) reveal distinct patterns. Notably, during the week, Saturday and Sunday emerge with the lengthiest ride durations among all seven days. These days also boast the longest ride durations for casual customers, averaging 27 minutes, and for member customers, averaging 14 minutes. In contrast, Wednesday stands out with the shortest overall ride duration, totaling 32 minutes. Remarkably, Wednesday also holds the title for the day with the briefest ride duration for casual customers. [SQL QUERY](https://github.com/m2dLC/bike-share/blob/main/Analysis%20Results/Average%20Ride%20duration%20per%20day.sql)
 
-   ![Average Ride Duration per Day (in min )](https://github.com/m2dLC/bike-share/assets/107737135/571382d3-ce6f-4cdb-8d34-827a06a6b0ca)
+   ![Average Ride Duration per Day (in min )](https://github.com/m2dLC/bike-share/assets/107737135/b293bde6-c49c-40f5-9900-164031feee5e)
 
 ## Act
 
